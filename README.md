@@ -1,5 +1,7 @@
 # LSTM PySpark Stream Prediction
 This project leverages LSTM (Long Short-Term Memory) networks for time-series sales prediction while utilizing PySpark Streaming for real-time data processing.
+# Pipline
+![Pipline](pipeline.png)
 ## Data 
 The used data is [Store Item](https://www.kaggle.com/code/dimitreoliveira/deep-learning-for-time-series-forecasting) on kaggle.
 ## Technologies
